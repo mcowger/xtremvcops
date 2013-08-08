@@ -21,6 +21,8 @@ lib64
 # Installer logs
 pip-log.txt
 
+*.log
+
 # Unit test / coverage reports
 .coverage
 .tox
